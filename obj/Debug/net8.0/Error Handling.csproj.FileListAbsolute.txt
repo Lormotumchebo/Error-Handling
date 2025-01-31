@@ -12,3 +12,4 @@ C:\Users\HomePC\source\repos\Error Handling\Error Handling\obj\Debug\net8.0\refi
 C:\Users\HomePC\source\repos\Error Handling\Error Handling\obj\Debug\net8.0\Error Handling.pdb
 C:\Users\HomePC\source\repos\Error Handling\Error Handling\obj\Debug\net8.0\Error Handling.genruntimeconfig.cache
 C:\Users\HomePC\source\repos\Error Handling\Error Handling\obj\Debug\net8.0\ref\Error Handling.dll
+C:\Users\HomePC\source\repos\Error Handling\Error Handling\obj\Debug\net8.0\Error Handling.sourcelink.json
